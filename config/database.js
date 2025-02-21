@@ -4,7 +4,7 @@ const pool = mysql.createPool({
     host: 'localhost',
     user: 'root',
     password: 'Jemmy.mysql',
-    database: 'hyperlink_ejs'
+    database: 'hyperlink_deal'
 });
 
 

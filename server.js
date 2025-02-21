@@ -1,4 +1,3 @@
-const m = require('./utilities/message')
 const express = require('express')
 require('dotenv').config();
 const app_routing = require('./modules/app-routing');
